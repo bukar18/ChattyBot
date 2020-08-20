@@ -1,1 +1,1 @@
-# Chattybot
+# A simple java chat bot
